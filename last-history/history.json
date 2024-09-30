@@ -1,0 +1,1 @@
+{"ffcfa2a4b3b8fb8089f783e1a6b1cc3e:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"4c9e2485bffda021","reportUrl":"https://allure-examples.github.io/mocha-npm-esm-ts/3//#testresult/4c9e2485bffda021","status":"passed","time":{"start":1727699751640,"stop":1727699751644,"duration":4}}]}}
